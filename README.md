@@ -23,6 +23,9 @@ Check out the live demo: [RedCloudHub](https://redcloudhub.netlify.app)
 - **Icons**: React Icons, Lucide Icons  
 - **Hosting**: Netlify
 
+## Feedback
+
+Feel free to share feedback or contribute to the project! You can reach me at [minkhantaung743@gmail.com].
 ---
 
 ## Installation
@@ -32,5 +35,5 @@ Follow these steps to run the project locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/redcloudhub.git
-   cd redcloudhub
+   git clone https://github.com/MinKhantAung23/Anime-ReactJs.git
+   cd Anime-ReactJs
